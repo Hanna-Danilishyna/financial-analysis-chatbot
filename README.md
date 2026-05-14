@@ -149,6 +149,7 @@ Response:
 Sorry, I can only answer predefined financial questions.
 
 # Project Structure
+```
 project/
 │
 ├── financial_analysis.ipynb
@@ -158,7 +159,7 @@ project/
 ├── plots/net_income_trend.png
 ├── plots/ocf_trend.png
 └── README.md
-
+```
 # Limitations
 The chatbot only supports predefined queries
 No NLP or machine learning models were used
